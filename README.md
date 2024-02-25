@@ -1,1 +1,1 @@
-# Disease-prediction-and-assistant
+# Disease-prediction-and-assistance-using-ML
